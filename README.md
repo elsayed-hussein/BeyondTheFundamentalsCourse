@@ -2,9 +2,9 @@
 
 [Section01](#Section01)- [Section02](#Section02)- [Section03](#Section03)-[Section04](#Section04)- [Section05](#Section05)- [Section06](#Section06)- [Section07](#Section07)- [Section08](#Section08)- [Section09](#Section09)
 
-## Section01
+## 01. Collections
 
-### Lesson01
+### 01.Understanding collections
     Collection: Grouping multiple items together and store them with a single name(variable)
 
     Pros & Cons
@@ -14,7 +14,7 @@
 ### Lesson02,3
     CODEs AT FILES UPPPPP
 ---
-### Lesson04
+### 04.Working with collections
     # Collections 
  ```
  Name_of_collection = { 
@@ -24,7 +24,7 @@
 Putting comma at end item of list or dict is not necessary,
 but this is the best practice 
 ---
-### Lesson05
+### 05.Collections in other languages
 at python
 ```
 #List items can be any type of data
@@ -64,9 +64,9 @@ Array
 
 C++
 
-## Section02
+## 02. Iteration
 
-### Lesson01
+### 01.Introduction to iteration
     Iteration: Repeats the same procedure multiple times until it reaches a specified end point.
 
 **Loop**: Code iterates, moving from the beginning to end of the process, then start over again.
@@ -76,7 +76,7 @@ C++
 - Specify the data
 - What should happen to the data during each iteration
 - Indicate when the loop should stop : to avoid infinite loop error
-### Lesson02
+### 02.Iterating through collections
     Omelet  Egg preparation
 
 Spices: Egg, Slat, water
@@ -124,7 +124,7 @@ for spice in spices:
 print("الأومليت ممل")
 ```
 
-## Section03
+## 03. Using External Code
 
 ### Lesson01
     
@@ -134,7 +134,7 @@ print("الأومليت ممل")
     
 
 
-## Section04
+## 04. Working with Strings
 
 ### Lesson01
     
@@ -148,7 +148,7 @@ print("الأومليت ممل")
     
 
 
-## Section05
+## 05. Planning a Program
 
 ### Lesson01
     
@@ -156,7 +156,7 @@ print("الأومليت ممل")
     
 
 
-## Section06
+## 06. Input and Output
 
 ### Lesson01
     
@@ -164,7 +164,7 @@ print("الأومليت ممل")
     
 
 
-## Section07
+## 07. Debugging
 
 ### Lesson01
     
@@ -182,7 +182,7 @@ print("الأومليت ممل")
     
 
 
-## Section08
+## 08. Object Orientation
 
 ### Lesson01
     
@@ -192,7 +192,7 @@ print("الأومليت ممل")
     
 
 
-## Section09 
+## 09. Advanced Topics 
 
 ### Lesson01
     
