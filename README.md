@@ -3,6 +3,129 @@
 [Section01](#Section01)- [Section02](#Section02)- [Section03](#Section03)-[Section04](#Section04)- [Section05](#Section05)- [Section06](#Section06)- [Section07](#Section07)- [Section08](#Section08)- [Section09](#Section09)
 
 
+# 02. Beyond the Fundamental
+
+Instructor: Sasha Vodnik
+Link: https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b
+No.: 10
+Tags: Front-End, Programmig, Web
+Time (h): 2
+التقدم: 💚
+الحالة: تم بحمد الله
+المصدر: LinkedIn
+تم دراسة: 10
+سلسلة: PROGRAMMING FOUNDATIONS, مسابقة البنيان المرصوص
+⏬⏬⏬: Yes
+
+- **Some Resources:**
+    - String All methods - W3 Schools, Programiz
+
+        [Python String Methods](https://www.w3schools.com/python/python_ref_string.asp)
+
+        [Python Standard Library Functions | Programiz](https://www.programiz.com/python-programming/methods)
+
+    - find(), index(), rfind(), rindex()
+
+        [Python String find()](https://www.programiz.com/python-programming/methods/string/find)
+
+        [Python String rfind()](https://www.programiz.com/python-programming/methods/string/rfind)
+
+        [Python String index()](https://www.programiz.com/python-programming/methods/string/index)
+
+        [Python String rindex()](https://www.programiz.com/python-programming/methods/string/rindex)
+
+        [Difference Between find( ) and index( ) in Python - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-find-and-index-in-python/)
+
+    - open(), rstrip()
+
+        [Python open() Function](https://www.w3schools.com/python/ref_func_open.asp)
+
+        [Python String rstrip() Method](https://www.w3schools.com/python/ref_string_rstrip.asp)
+
+    - file parameter of Python’s print() Function
+
+        [file parameter of Python's print() Function - GeeksforGeeks](https://www.geeksforgeeks.org/python-file-parameter-print/)
+
+    - If and elif and else
+
+        [Python if...else Statement](https://www.programiz.com/python-programming/if-elif-else)
+
+    - No Resources here
+
+---
+
+# **00.** Introduction
+
+- ملخص السيكشن
+
+    الكورس محتاج تكون عارف شوية بديهيات ، اللي إتشرحت في الكورس اللي قبله، المتغيرات والفانكشن وشويه في المتغيرات الشرطية اللي هي if بإختصار.
+
+    واكيد تكون عارف برضه بديهيات البايثون او السينتاكس بتاعها يعني واللي برضه اتشرح في الكورس اللي فات.
+
+    في الكورس ده تخطوا موضوع ضرب امثله انيميشن وبدأ يوريك امثله عمليه ومن الواقع علي مفاهيم برمجيه معقدة وبنفس الطريقه السابقه خلق مشكله، عرض المعلومه علي هيئة حل = فهم عميق لكيفيه العمل والجدوى أصلا من الشئ.
+
+    خلال الكورس هيعلمك برضه ازاي تكود بفعاليه من خلال إنه هيعلمك اختصارات وشورت كاتس طول ما هو ماشي وهتتعلمهم من غير ما تحس!
+
+---
+
+# **01.** Collections
+
+- **01.Understanding collections**
+
+    **Collection:** Grouping multiple items together and store them with a single name(variable)
+
+    Pros & Cons
+
+    **types:** 1.Dectionarys 2.Lists
+
+- **02.Creating simple collections**
+
+    **List:** Simple collection that groups pieces of data together in a certain order and assigns the collection a name.
+
+    ```python
+    guests = [
+    	'mansour',
+    	'ahmed',
+    ]
+    ```
+
+- **03.Creating more complex collections**
+
+    ```python
+    food = {
+    	'appetizr': 'hummus',
+    	'entree': 'gyro wraps',
+    	****'dessert': 'baklava',
+    }
+
+    # # California state symbols
+    # state_bird = 'California quail'
+    # state_animal = 'Grizzly bear'
+    # state_flower = 'California poppy'
+    # state_fruit = 'Avocado'
+
+    # Collections 
+    # Name of collection = { 
+    #     'Label' : 'Value',
+    # }
+
+    California_state_symbols = {
+        'bird': 'California quail',
+        'animal': 'Grizzly bear',
+        'flower': 'California poppy',
+        'fruit': 'Avocado',
+    }
+    ```
+
+- **04.Working with collections**
+
+    ```python
+    # California state symbols
+    # state_bird = 'California quail'
+    # state_animal = 'Grizzly bear'
+    # state_flower = 'California poppy'
+    # state_fruit = 'Avocado'
+
     # Collections 
     # Name of collection = { 
     #     'Label' : 'Value',
@@ -850,3 +973,47 @@
     Feedback
 
     Structuring your code to do multiple things at once can increase a program's speed and responsiveness.
+
+- ملخص
+
+---
+
+# **00.** Conclusion
+
+---
+
+- بوست قصير لـ لينكد إن
+
+    تقييم عام للكورس: بشكل عام الكورس مناسب جداً للمبتدئين، وأنسب لغيرهم من اللي مأخدش حاجه تأسيسيه من قبل، بيعتبرك إنسان مالكش أي علاقه قبل كده بالبرمجة وأول مره تكتب كود في حياتك.
+
+    لدرجه إنه بيشرح أبسط أبسط المفاهيم، والغريب إنه مِش مٌمل أبدًا أبدًا وده غريب فعلاً
+
+    ومبهر، ويحتاج منك تعاين بنفسك عشان تتأكد من كلامي!
+
+    الفئة المُستهدفة من الكورس: زي ما قولت المبتدئين بشكل كبير. يصلح حتي سن 14 أو أقل مع موجه من وجة نظري.
+
+    محتاج إيه قبل ما تبدأ الكورس: تكون عارف شوية بديهيات، اللي إتشرحت في الكورس اللي قبله:
+
+    1. المتغيرات والدوال (Functions)
+
+    2. شويه في المتغيرات الشرطية اللي هي if باختصار.
+
+    3.واكيد تكون عارف برضه بديهيات البايثون او القواعد (Syntax) بتاعتها يعني
+
+    وكل ده إتشرح في الكورس اللي فات.
+
+    المُحاضر وأسلوب الكورس: في الكورس ده تخطوا موضوع ضرب أمثلة مرسومة أنيميشن وبدأ يوريك أمثلة عملية ومن الواقع علي مفاهيم برمجيه معقدة يعني هاتلاقي فيديو من الفيديوهات بيبدأ بإنه بيحضر البيض علي الطاولة ويقوم أولا بتكرار فقش (فقس) عدة بيضات ومن ثم يشرح لك كيف تكتب لهذه العملية كود!!!
+
+    وبنفس الطريقة السابقة خلق مشكلة، عرض المعلومة علي هيئة حل = فهم عميق لكيفيه العمل والجدوى أصلا من الشيء.
+
+    متوقع أطلع بإيه من الكورس:
+
+    1. هتفهم يعني ايه Collections وأتعملت ليه أصلا وإيه هي أنواعها وإزاي معظم الحاجات في اللغة هي في الأساس Collection زي ال Array مثلا!
+
+    2. بعدين هاتروح في رحله مع مفهوم التكرار Iteration وانواعه والأخطاء اللي بتحصل فيه وإزاي تتجنبها.
+
+    3. وبعدها هايدخل علي ال Strings ويشرحها ويشرح العمليات بتاعتها وما يتعلق بيها
+
+    4. وفي الأخر بقا بيعلمك ازاي تفكر حرفيًا بين ثنايا الأفكار بيقولك ازاي تفكر بترتيب منطقي واضح، وأنواع المشاكل اللي هاتواجهك، بنفس طريقة الدريل أو الشينيور (لما تخلص الكورس هتفهم 😉
+
+---
