@@ -1,21 +1,12 @@
 # Here All Course Notes
 
-[Section01](#Section01)- [Section02](#Section02)- [Section03](#Section03)-[Section04](#Section04)- [Section05](#Section05)- [Section06](#Section06)- [Section07](#Section07)- [Section08](#Section08)- [Section09](#Section09)
+[Section01](#01-collections)- [Section02](#02-iteration)- [Section03](#03-using-external-code)-[Section04](#04-Working-with-Strings)- [Section05](#05-Planning-a-Program)- [Section06](#06-Input-and-Output)- [Section07](#07-Debugging)- [Section08](#08-Object-Orientation)- [Section09](#09-Advanced-Topics)
 
 
 # 02. Beyond the Fundamental
 
 Instructor: Sasha Vodnik
 Link: https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2b643dd5596be4e4989b
-No.: 10
-Tags: Front-End, Programmig, Web
-Time (h): 2
-التقدم: 💚
-الحالة: تم بحمد الله
-المصدر: LinkedIn
-تم دراسة: 10
-سلسلة: PROGRAMMING FOUNDATIONS, مسابقة البنيان المرصوص
-⏬⏬⏬: Yes
 
 - **Some Resources:**
     - String All methods - W3 Schools, Programiz
